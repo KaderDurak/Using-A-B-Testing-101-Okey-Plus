@@ -3,4 +3,4 @@
 ## This dataset is not original dataset. 
 ## There is no relationship with Zynga.
 
-With artificial dataset we're going to analyze an AB-test users who sign with facebook or sign as a guest. In particular, we will look at the impact on player retention.
+With an artificial dataset, we're going to analyze AB-test users who sign with Facebook or register as a guest. In particular, we will look at the impact on player retention.
